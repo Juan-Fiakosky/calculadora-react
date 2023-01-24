@@ -41,12 +41,6 @@ function App() {
 					<Boton manejarClic={agregarInput}>-</Boton>
 				</div>
 				<div className="fila">
-					<Boton manejarClic={agregarInput}>4</Boton>
-					<Boton manejarClic={agregarInput}>5</Boton>
-					<Boton manejarClic={agregarInput}>6</Boton>
-					<Boton manejarClic={agregarInput}>-</Boton>
-				</div>
-				<div className="fila">
 					<Boton manejarClic={agregarInput}>7</Boton>
 					<Boton manejarClic={agregarInput}>8</Boton>
 					<Boton manejarClic={agregarInput}>9</Boton>
